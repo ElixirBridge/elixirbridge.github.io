@@ -1,1 +1,1 @@
-sidebarNodes={"exceptions":[],"extras":[{"id":"api-reference","title":"API Reference","headers":[]}],"modules":[{"id":"Curriculum","title":"Curriculum"}],"protocols":[]}
+sidebarNodes={"exceptions":[],"extras":[{"id":"api-reference","title":"API Reference","headers":[]}],"modules":[{"id":"Introduction","title":"Introduction"},{"id":"Mexico","title":"Mexico"},{"id":"Welcome","title":"Welcome"}],"protocols":[]}
