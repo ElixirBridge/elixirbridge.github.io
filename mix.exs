@@ -3,7 +3,7 @@ defmodule ElixirBridge.Mixfile do
 
   def project do
     [app: :ElixirBridge,
-     name: "Elixir Bridge",
+     name: "ElixirBridge",
      version: "0.0.1",
      elixir: ">= 1.1.1",
      build_embedded: Mix.env == :prod,
