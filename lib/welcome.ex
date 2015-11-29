@@ -7,7 +7,7 @@ defmodule Welcome do
   in Elixir Bridge you'll be flying around the world visiting people that
   are looking for software engineers like you. They're looking out for somebody
   that can solve problems and use Elixir to write the solution. We think you're
-  the best candidate because you're eager to learn.
+  the best candidate because we know you're eager to learn.
 
   You will be traveling with a team, so don't worry ! You'll be able to work
   with more experienced engineers that will guide your development. In

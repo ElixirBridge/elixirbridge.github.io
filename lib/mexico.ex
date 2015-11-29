@@ -11,4 +11,8 @@ defmodule Mexico do
       # adjustemnts in the source code should take place. Finish by having the user create
       # his first function.
   """
+
+  def inegi do
+    { }
+  end
 end
