@@ -1,18 +1,23 @@
 defmodule Mexico do
   @moduledoc """
-  # Welcome to Mexico
+  # Destination: Cancún, México.
 
-  Fly to Cancun. Work with a tourism business and find out the right number
-  per year of tourists they need. They have a semi working system you have
-  to tweak. There seem to be a problem with counter of tourists.
+  Alright ! Before you catch your flight let's talk about the client.
 
-      # The excercise will have a Module with the "legacy" code from the
-      # problem loaded in the env. The problem requires you to figure out what's the bug. Few
-      # adjustemnts in the source code should take place. Finish by having the user create
-      # his first function.
+  Mr. Sanchez is a business owner interested in providing great service
+  at his hotels. He's interested in expanding the experience by entering
+  to the digital world. The plan is to run experiments to gather more data
+  about the market.  Last year, another company that worked for Mr.
+  Sanchez, built a database in elixir that we can use !
+
+  While you're on the air, make sure you learn about `iex`. It's a tool that
+  will let you code and read the results of your code instantly. It's known as
+  "Interactive Elixir" and we will be using it to access Mr. Sanchez's
+  database.
+
+  [This guide](http://elixir-lang.org/getting-started/introduction.html#interactive-mode)
+  will help you out.:w
   """
 
-  def inegi do
-    { }
-  end
+  def database, do: {}
 end
