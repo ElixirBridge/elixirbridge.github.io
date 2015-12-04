@@ -1,1 +1,1 @@
-sidebarNodes={"exceptions":[],"extras":[{"id":"api-reference","title":"API Reference","headers":[]}],"modules":[{"id":"Introduction","title":"Introduction"},{"id":"Mexico","title":"Mexico","functions":[{"id":"database/0","anchor":"database/0"}]},{"id":"Welcome","title":"Welcome"}],"protocols":[]}
+sidebarNodes={"exceptions":[],"extras":[{"id":"api-reference","title":"API Reference","headers":[]}],"modules":[{"id":"Introduction","title":"Introduction"},{"id":"Lang","title":"Lang"},{"id":"Mexico","title":"Mexico"},{"id":"Welcome","title":"Welcome"}],"protocols":[]}
